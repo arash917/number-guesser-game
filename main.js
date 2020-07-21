@@ -6,7 +6,7 @@
  - let player choose to play again
 */
 
-// game values -- comment on branch test 2
+// game values -- comment on branch test 3
 
 let min = 1,
     max = 10,
